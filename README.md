@@ -7,8 +7,8 @@ MySQL Workbench
 Microsoft .NET Framework 4.5.2  
   https://www.microsoft.com/en-us/download/details.aspx?id=42642 (4.5.2)
 
-Microsoft Visual C++ 2013 Redistributable Package (x86 or x64)
-  https://www.microsoft.com/en-us/download/details.aspx?id=40784
+Microsoft Visual C++ 2015 Redistributable Package (x86 or x64)
+  https://www.microsoft.com/en-us/download/details.aspx?id=48145
   
 PuTTY SSH
   https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
